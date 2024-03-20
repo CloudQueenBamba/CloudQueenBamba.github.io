@@ -1,0 +1,24 @@
+@font-face {
+    src: url(fonts/Karma\ Future.otf);
+    font-family: Karma;
+}
+
+::selection {
+    background:rgb(169, 220, 118);
+}
+
+.vt323-regular {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body{
+    
+    margin: 0;
+    padding: 0;
+    margin-top: 0x;
+    background-color: rgb(45, 42, 46);
+    font-family: VT323;
+
+}
