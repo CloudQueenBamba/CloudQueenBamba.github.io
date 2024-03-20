@@ -31,6 +31,24 @@ h1{
     margin: 5px;
 }
 
+h2{
+    text-align: center;
+    color: rgb(87, 142, 150);
+    font-family: VT323;
+    font-size: 50px;
+    margin: 5px;
+}
+
+h3 {
+    color: rgb(87, 142, 150);
+    font-family: VT323;
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    
+}
+
 .tableOfContents {
     background-color: rgb(45, 42, 46);
     width: 1000px;
@@ -57,5 +75,38 @@ h1{
     margin-top: 0px;;
     font-size: 30px;
     display: inline-block;
+}
+
+.recipe {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+
+    border: 2px solid rgb(169, 220, 118);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+    margin: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(252, 152, 103);
+    position: relative;
+
+}
+
+p {
+    color:rgb(87, 142, 150); 
+    font-size: 30px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    margin: 0;
 }
 
