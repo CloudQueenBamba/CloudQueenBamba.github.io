@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+}
+
 @font-face {
     src: url(fonts/Karma\ Future.otf);
     font-family: Karma;
@@ -31,6 +35,17 @@ h2{
     font-size: 50px;
     margin: 5px;
 }
+
+h3 {
+    color: rgb(87, 142, 150);
+    font-family: VT323;
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    
+}
+
 .title {
     background-color: rgb(45, 42, 46);
     width: 1000px;
@@ -67,9 +82,8 @@ h1{
 .footer {
     background-color: rgb(20, 19, 20);
     position: absolute;
-    bottom: 0;
     right: 0;
-    left: 0;
+    left: 0; 
 
 }
 
@@ -87,6 +101,32 @@ p {
     font-size: 25px;
     color: rgb(87, 142, 150)
     
+}
+
+.blog {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+    border: 2px solid rgb(169, 220, 118);
+}
+
+img {
+    margin: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(252, 152, 103);
+    position: relative;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 
