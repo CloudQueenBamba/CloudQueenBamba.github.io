@@ -22,3 +22,13 @@ body{
     font-family: VT323;
 
 }
+
+.blog {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+    border: 2px solid rgb(169, 220, 118);
+}
