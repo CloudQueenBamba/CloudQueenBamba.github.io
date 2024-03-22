@@ -146,10 +146,12 @@ a {
     padding-left: 30px;
 }
 
-video {
+iframe {
     border-style: solid;
+    width: 200px;
     border-width: 1px;
     border-color: rgb(252, 152, 103);
+    
 }
 
 
