@@ -149,9 +149,18 @@ a {
 iframe {
     border-style: solid;
     width: 200px;
+    margin-bottom: 30px;
     border-width: 1px;
     border-color: rgb(252, 152, 103);
     
+}
+
+video {
+    border-style: solid;
+    margin-bottom: 35px;
+    margin-left: 40;
+    border-width: 1px;
+    border-color: rgb(252, 152, 103);
 }
 
 
