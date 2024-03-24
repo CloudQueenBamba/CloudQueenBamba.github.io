@@ -115,3 +115,8 @@ p {
 
     border: 2px solid rgb(169, 220, 118);
 }
+
+a {
+    text-decoration: none;
+    color: rgb(87, 142, 150);
+}

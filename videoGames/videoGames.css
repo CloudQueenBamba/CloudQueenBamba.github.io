@@ -93,13 +93,11 @@ li {
     color: rgb(87, 142, 150);
     list-style: none;
     text-align: left;
-
-
-
 }
 
 a {
     text-decoration: none;
+    color: rgb(87, 142, 150);
 }
 
 p {
