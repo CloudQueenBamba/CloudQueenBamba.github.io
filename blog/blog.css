@@ -61,12 +61,30 @@ p {
 }
 
 img {
-    margin: 30px;
+    margin: 15px;
     border-style: solid;
     border-width: 1px;
     border-color: rgb(87, 142, 150);
     position: relative;
     
+}
+
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image2 {
+        position: absolute;
+        top: 360px;
+        left: 430px;
+}
+
+.image3 {
+    position: absolute;
+        top: 60px;
+        left: 430px;
 }
 
 .blogContainer {
@@ -87,6 +105,7 @@ img {
 }
 
 .container {
+    position: relative;
     width: 970px;
     margin-left: 40px;
     margin-right: 40px;
