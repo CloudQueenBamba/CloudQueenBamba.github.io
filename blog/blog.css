@@ -69,19 +69,19 @@ img {
     
 }
 
-.image1 {
+.bang1 {
     position: relative;
     top: 0;
     left: 0;
 }
 
-.image2 {
+.bang2 {
         position: absolute;
         top: 360px;
         left: 430px;
 }
 
-.image3 {
+.bang3 {
     position: absolute;
         top: 60px;
         left: 430px;
