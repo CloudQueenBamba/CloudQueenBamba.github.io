@@ -163,6 +163,13 @@ video {
     border-color: rgb(252, 152, 103);
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 
 
 
