@@ -75,8 +75,8 @@ h1{
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 70px;
-    margin-bottom: 50px;
+    margin-top: 40px;
+    margin-bottom: 0px;
 
     border: 2px solid rgb(169, 220, 118);
 }
@@ -109,7 +109,7 @@ p {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 70px;
+    margin-top: 40px;
     margin-bottom: 50px;
 
     border: 2px solid rgb(169, 220, 118);
@@ -133,6 +133,17 @@ img {
 
 a {
     text-decoration: none;
+}
+
+button {
+    background-color: transparent;
+    border: 2px solid rgb(169, 220, 118);
+    font-size: 20px;
+    font-family: VT323;
+    color: rgb(252, 152, 103);
+    margin-top: -40px;
+    margin-left: 5px;
+    position: absolute;
 }
 
 

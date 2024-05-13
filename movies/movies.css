@@ -133,3 +133,12 @@ iframe {
     margin-right: auto;
     width: 50%;
 }
+
+#title {
+    font-size: 30px;
+    font-family: Karma;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 5px;
+    text-decoration: none;
+}

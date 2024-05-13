@@ -35,6 +35,19 @@ body{
 
 }
 
+#title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-family: Karma;
+}
+
+a:visited {
+    color: rgb(87, 142, 150);
+}
+
 h1{
     text-align: center;
     color: rgb(87, 142, 150);
@@ -106,4 +119,15 @@ img {
     border-color: rgb(252, 152, 103);
     position: relative;
 
+}
+
+/* img:hover{
+    transform: scale(1.02);
+} */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }

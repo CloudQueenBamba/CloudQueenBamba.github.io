@@ -117,3 +117,11 @@ p {
 
     border: 2px solid rgb(169, 220, 118);
 }
+
+#title {
+    font-size: 30px;
+    font-family: Karma;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 5px;
+}

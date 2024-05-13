@@ -120,3 +120,11 @@ a {
     text-decoration: none;
     color: rgb(87, 142, 150);
 }
+
+#title {
+    font-size: 30px;
+    font-family: Karma;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 5px;
+}

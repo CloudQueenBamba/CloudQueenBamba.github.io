@@ -163,6 +163,23 @@ video {
     border-color: rgb(252, 152, 103);
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#title {
+    font-size: 30px;
+    font-family: Karma;
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 5px;
+    color: rgb(87, 142, 150);
+    text-decoration: none;
+}
+
 
 
 
