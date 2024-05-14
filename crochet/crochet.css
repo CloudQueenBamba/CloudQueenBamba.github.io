@@ -121,15 +121,9 @@ img {
 
 }
 
-<<<<<<< HEAD
 /* img:hover{
     transform: scale(1.02);
 } */
-=======
-img:hover{
-    transform: scale(1.02);
-}
->>>>>>> 4a61d63bbb17d778993ca8669ad26ae4a1a3a62f
 
 .center {
     display: block;
