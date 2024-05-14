@@ -21,7 +21,7 @@ var a = [
 '<a href="index.html"><h2 style="color:rgb(252,152,103);text-decoration: none;" >or is it crochet queen?</h2></a>',
 '<a href="index.html"><h2 style="color:rgb(252,152,103);text-decoration: none; font-size: 35px;" >bulimia is for wimps, normalize hacking off body parts with an axe</h2></a>',
 '<a href="index.html"><h2 style="color:rgb(252,152,103);text-decoration: none;" >uh oh! bad decision, mark!</h2></a>',
-'<a href="index.html"><h2 style="color:rgb(252,152,103);text-decoration: none; font-size: 35px;" >i love backdoors! thank you intel very cool!</h2></a>',
+'<a href="index.html"><h2 style="color:rgb(252,152,103);text-decoration: none; font-size: 15px;" >i love backdoors! thank you intel very cool!</h2></a>',
 '<a href="index.html"><h2 style="color:rgb(252,152,103);text-decoration: none;" >You look lonely.  I can fix that.</h2></a>',
 '<a href="index.html"><h2 style="color:rgb(252,152,103);text-decoration: none;" >We Are Anonymous. We Are Legion.</h2></a>',
 ];
