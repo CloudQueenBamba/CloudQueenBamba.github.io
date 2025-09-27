@@ -8,7 +8,7 @@ html {
 }
 
 ::selection {
-    background:rgb(169, 220, 118);
+    background:rgb(130, 111, 184);
 }
 
 .vt323-regular {
@@ -23,21 +23,21 @@ body{
     margin: 0;
     padding: 0;
     margin-top: 0x;
-    background-color: rgb(45, 42, 46);
+    background-color: rgb(0, 8, 18);
     font-family: VT323;
 
 }
 
 h2{
     text-align: center;
-    color: rgb(87, 142, 150);
+    color: rgb(215, 35, 183);
     font-family: VT323;
     font-size: 45px;
     margin: 5px;
 }
 
 h3 {
-    color: rgb(87, 142, 150);
+    color: rgb(5, 208, 222);
     font-family: VT323;
     font-size: 40px;
     margin: 0px;
@@ -47,7 +47,7 @@ h3 {
 }
 
 .title {
-    background-color: rgb(45, 42, 46);
+    background-color: rgb(0, 8, 18);
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
@@ -55,13 +55,13 @@ h3 {
     font-size: 40px;
     text-align:center;
 
-    border: 2px solid rgb(169, 220, 118);
+    border: 2px solid rgb(130, 111, 184);
 
 }
 
 h1{
     text-align: center; 
-    color: rgb(87, 142, 150);
+    color: rgb(245, 40, 105);
     font-family: Karma;
     font-size: 90px;
     margin: 5px;
@@ -77,11 +77,11 @@ h1{
     margin-top: 40px;
     margin-bottom: 0px;
 
-    border: 2px solid rgb(169, 220, 118);
+    border: 2px solid rgb(130, 111, 184);
 }
 
 .footer {
-    background-color: rgb(20, 19, 20);
+    background-color: rgb(0, 8, 18);
     position: absolute;
     right: 0;
     left: 0; 
@@ -100,7 +100,7 @@ p {
     margin: auto;
     padding: 0px;
     font-size: 25px;
-    color: rgb(87, 142, 150)
+    color: rgb(5, 208, 222)
     
 }
 
@@ -111,14 +111,14 @@ p {
     margin-top: 40px;
     margin-bottom: 50px;
 
-    border: 2px solid rgb(169, 220, 118);
+    border: 2px solid rgb(130, 111, 184);
 }
 
 img {
     margin: 15px;
     border-style: solid;
     border-width: 1px;
-    border-color: rgb(252, 152, 103);
+    border-color: rgb(5, 208, 222);
     position: relative;
     
 }
@@ -136,10 +136,10 @@ a {
 
 button {
     background-color: transparent;
-    border: 2px solid rgb(169, 220, 118);
+    border: 2px solid rgb(130, 111, 184);
     font-size: 20px;
     font-family: VT323;
-    color: rgb(252, 152, 103);
+    color: rgb(5, 208, 222);
     margin-top: -40px;
     margin-left: 5px;
     position: absolute;

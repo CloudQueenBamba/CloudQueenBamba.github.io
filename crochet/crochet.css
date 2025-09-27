@@ -4,7 +4,7 @@
 }
 
 ::selection {
-    background:rgb(169, 220, 118);
+    background:rgb(130, 111, 184);
 }
 
 .vt323-regular {
@@ -30,7 +30,7 @@ body{
     margin: 0;
     padding: 0;
     margin-top: 0x;
-    background-color: rgb(45, 42, 46);
+    background-color: rgb(0, 8, 18);
     font-family: VT323;
 
 }
@@ -45,12 +45,12 @@ body{
 }
 
 a:visited {
-    color: rgb(87, 142, 150);
+    color: rgb(5, 208, 222);
 }
 
 h1{
     text-align: center;
-    color: rgb(87, 142, 150);
+    color: rgb(245, 40, 105);
     font-family: VT323;
     font-size: 60px;
     margin: 5px;
@@ -58,14 +58,14 @@ h1{
 
 h2{
     text-align: center;
-    color: rgb(87, 142, 150);
+    color: rgb(215, 35, 183);
     font-family: VT323;
     font-size: 50px;
     margin: 5px;
 }
 
 h3 {
-    color: rgb(87, 142, 150);
+    color: rgb(215, 35, 183);
     font-family: VT323;
     font-size: 40px;
     margin: 0px;
@@ -75,7 +75,7 @@ h3 {
 }
 
 .crochetTitle p {
-    color:rgb(87, 142, 150); 
+    color:rgb(5, 208, 222); 
     font-size: 30px;
     text-align: center;
     padding-bottom: 5px;
@@ -83,7 +83,7 @@ h3 {
 }
 
 p {
-    color:rgb(87, 142, 150); 
+    color:rgb(5, 208, 222); 
     font-size: 30px;
     padding-bottom: 5px;
     padding-left: 30px;
@@ -91,7 +91,7 @@ p {
 }
 
 .crochetTitle {
-    background-color: rgb(45, 42, 46);
+    background-color: rgb(0, 8, 18);
     width: 1000px;
     height:auto;
     margin-left: auto;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 10px;
     font-size: 30px;
     text-align:center;
-    border: 2px solid rgb(169, 220, 118);
+    border: 2px solid rgb(130, 111, 184);
 }
 
 .projects {
@@ -109,14 +109,14 @@ p {
     margin-right: auto;
     margin-top: 40px;
 
-    border: 2px solid rgb(169, 220, 118);
+    border: 2px solid rgb(130, 111, 184);
 }
 
 img {
     margin: 15px;
     border-style: solid;
     border-width: 1px;
-    border-color: rgb(252, 152, 103);
+    border-color: rgb(215, 35, 183);
     position: relative;
 
 }
